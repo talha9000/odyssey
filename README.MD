@@ -7,7 +7,7 @@ The Odyssey template is a base template for Create React App tailored for OSYSSE
 To use this template, you can easily create a new React app with it using npx. Run the following command in your terminal:
 
 ```bash
-npx create-react-app my-odyssey-app --template odyssey
+npx create-react-app my-odyssey-app --template cra-odyssey 
 ```
 This will create a new React app named my-odyssey-app using the Odyssey template.
 
