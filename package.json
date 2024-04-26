@@ -1,10 +1,11 @@
 {
   "name": "cra-odyssey",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "template for odyssey react frontend "
   ],
   "description": "The base template for Create React App.",
   "repository": {
