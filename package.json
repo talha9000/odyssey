@@ -1,5 +1,5 @@
 {
-  "name": "odyssey",
+  "name": "odyssey-cra-template",
   "version": "1.2.0",
   "keywords": [
     "react",
@@ -7,11 +7,7 @@
     "template"
   ],
   "description": "The base template for Create React App for OSYSSEY analytics.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/talha9000/odyssey",
-    "directory": "odyssey"
-  },
+ 
   "license": "MIT",
   "engines": {
     "node": ">=14"
