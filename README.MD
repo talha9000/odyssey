@@ -19,4 +19,4 @@ This will create a new React app named my-odyssey-app using the Odyssey template
 ## Usage
 Once you have created your app using the Odyssey template, you can start developing your React application as usual. Customize the components, add your logic, and build your project.
 
-by M talha khai junior
+by M talha Khalid junior
